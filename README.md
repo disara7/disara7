@@ -2,6 +2,7 @@
 
 ![Disara's GitHub stats](https://github-readme-stats.vercel.app/api?username=disara7&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=disara7&layout=compact)
 <!--
 **disara7/disara7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
