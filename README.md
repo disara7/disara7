@@ -1,6 +1,6 @@
 ## Hi there, I'm Disara 👋
 
-![Disara's GitHub stats](https://github-readme-stats.vercel.app/api?username=disara7&show_icons=true&theme=radical)
+![Disara's GitHub stats](https://github-readme-stats.vercel.app/api?username=disara7&show_icons=true&theme=tokyonight)
 
 <!--
 **disara7/disara7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
