@@ -1,9 +1,5 @@
 ## Hi there, I'm Disara 👋
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/disara7/disara7/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
-
 ![Disara's GitHub stats](https://github-readme-stats.vercel.app/api?username=disara7&show_icons=true&theme=radical)
 
 <!--
