@@ -1,24 +1,40 @@
-## Hi there, I'm Disara 👋
+## Hi there, I'm Disara 👋  
 
-<a href="https://github.com/disara7/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=disara7&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=disara7&layout=compact&langs_count=8&card_width=320&bg_color=000000&text_color=ffffff" />
-</a>
+🎓 **Software Engineering Undergraduate** | 💡 **Creative Problem Solver** | 🏆 **Hackathon Winner**  
+🌍 Sri Lanka
 
+I’m a multidisciplinary software engineering undergraduate with a strong interest in **full-stack development, user experience, and creative problem solving**. I enjoy building scalable applications, experimenting with new technologies, and turning complex problems into elegant solutions.
 
-<!--
-**disara7/disara7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beyond coding, I actively contribute to **STEM education initiatives** and love creating impactful tech experiences for students and communities.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I’m Working On
+- 📱 Building **mobile and web applications** using Flutter, React, Next.js, and Node.js  
+- ☁️ Exploring **cloud-native architectures** (Docker, Kubernetes, microservices)  
+- 🤖 Integrating **AI-driven assistants** and chatbots into real-world applications  
+- 🔬 Conducting research in **Cloud Computing & Distributed Systems**
+
+---
+
+### 🧠 Tech Stack & Tools
+- **Frontend:** React, Flutter, Next.js, Tailwind CSS, MUI
+- **Backend:** Node.js, Express.js, Spring Boot
+- **Databases:** MySQL, MongoDB, Firebase
+- **DevOps & Cloud:** Docker, Kubernetes, AWS (Serverless), CI/CD
+- **Testing & Quality:** Jest, JUnit, MockMvc, Code Coverage Tools (Jacoco)
+
+---
+
+### 🌱 Community & Leadership
+- 🔧 Organizer & contributor to **IEEE STEM education workshops**
+- 🧑‍🤝‍🧑 Team player with multiple **national-level hackathon wins**
+
+---
+
+### 📫 Let’s Connect
+- 💼 LinkedIn: *https://www.linkedin.com/in/disara-mapalagama/*
+- 🌐 Portfolio: *https://disara7.github.io/portfolio/*
+- 📧 Email: *disaradm07@gmail.com*
+
+⚡ *Fun fact:* I love blending creativity with engineering—whether it’s designing intuitive UIs, mentoring students, or brainstorming hackathon ideas late at night.
