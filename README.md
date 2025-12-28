@@ -1,7 +1,6 @@
 ## Hi there, I'm Disara 👋  
 
-🎓 **Software Engineering Undergraduate** | 💡 **Creative Problem Solver** | 🏆 **Hackathon Winner**  
-🌍 Sri Lanka
+🎓 **Software Engineering Undergraduate** | 💡 **Creative Problem Solver** | 🏆 **Hackathon Winner** | 🌍 Sri Lanka
 
 I’m a multidisciplinary software engineering undergraduate with a strong interest in **full-stack development, user experience, and creative problem solving**. I enjoy building scalable applications, experimenting with new technologies, and turning complex problems into elegant solutions.
 
