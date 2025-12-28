@@ -9,26 +9,12 @@ Beyond coding, I actively contribute to **STEM education initiatives** and love 
 
 ---
 
-### 🚀 What I’m Working On
-- 📱 Building **mobile and web applications** using Flutter, React, Next.js, and Node.js  
-- ☁️ Exploring **cloud-native architectures** (Docker, Kubernetes, microservices)  
-- 🤖 Integrating **AI-driven assistants** and chatbots into real-world applications  
-- 🔬 Conducting research in **Cloud Computing & Distributed Systems**
-
----
-
 ### 🧠 Tech Stack & Tools
 - **Frontend:** React, Flutter, Next.js, Tailwind CSS, MUI
 - **Backend:** Node.js, Express.js, Spring Boot
 - **Databases:** MySQL, MongoDB, Firebase
 - **DevOps & Cloud:** Docker, Kubernetes, AWS (Serverless), CI/CD
 - **Testing & Quality:** Jest, JUnit, MockMvc, Code Coverage Tools (Jacoco)
-
----
-
-### 🌱 Community & Leadership
-- 🔧 Organizer & contributor to **IEEE STEM education workshops**
-- 🧑‍🤝‍🧑 Team player with multiple **national-level hackathon wins**
 
 ---
 
